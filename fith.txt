@@ -1,3 +1,4 @@
 file 5
 Changes after stash
 Changed on GH.com
+changed in branch
